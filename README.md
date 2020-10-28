@@ -10,6 +10,8 @@ For example, if *N* = 10, the sum of multiples is:  3 + 5 + 6 + 9 + 10 = **33**
 
 A signal is either a `.` (left branch) or a `-` (right branch). 
 
+![morse svg](https://github.com/NutsNet/HopQuiz/blob/main/morse.svg)
+
 Morse is case-insensitive. **Only consider letters A to Z in this problem** (no digits or accented letters.)
 
 1. Given a valid string of signals, write a function *decode* that returns the corresponding letter. For example, `...` returns `S`.
